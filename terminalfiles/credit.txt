@@ -1,0 +1,2 @@
+This protfolio's source code was originally written by Ethan Jones.<br/>
+<a href="https://github.com/littlebigbug/portfolio-web-terminal">You can grab a copy of the source code from the github repository</a>.
