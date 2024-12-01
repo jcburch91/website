@@ -1,5 +1,5 @@
 let cmds = [];
-let printTemplate = `<span class="prefix"><span class="userdomain">visitor@yasfu.net</span>:<span class="tilde">~</span>&#36; &nbsp;</span>`;
+let printTemplate = `<span class="prefix"><span class="userdomain">visitor@cameronburch.com</span>:<span class="tilde">~</span>&#36; &nbsp;</span>`;
 let inputBoxTemplate = `<input type="text" id="terminput" name="terminput">`;
 let textStampTemplate = `<span class="textstamp">{TEXT}</span><br/>`;
 let printTxtTemplate = `<span class="print">{TEXT}</span>`;
